@@ -22,14 +22,16 @@ O foco principal deste projeto foi o **aprendizado prático** do funcionamento d
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio```
+cd seu-repositorio
+```
 
 ### 2. Crie um ambiente virtual (opcional, mas recomendado)
 
 ```b̀ash
 python -m venv venv
 source venv/bin/activate
-venv\Scripts\activate```
+venv\Scripts\activate
+```
 
 ### 3. Instale as dependências
 
@@ -42,7 +44,8 @@ No arquivo `properties.yaml` na raiz do projeto faça a troca do "TOKEN_ACCESS" 
 
 ```b̀ash
 key:
-    ibm:"TOKEN_ACCESS"```
+    ibm:"TOKEN_ACCESS"
+```
 
 ### Observações
 - O projeto foi desenvolvido com foco em aprendizado, portanto não é voltado para produção.
